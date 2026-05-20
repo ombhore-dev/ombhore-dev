@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="mailto:ombhore.tech@gmail.com">📧 ombhore.tech@gmail.com</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="https://YOUR_PORTFOLIO_LINK">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/om-bhore-53bb0422b">LinkedIn</a> •
+  <a href="https:// nextleap.app/portfolio/om-bhore">Portfolio</a> •
   📍 Pune, India
 </p>
 
