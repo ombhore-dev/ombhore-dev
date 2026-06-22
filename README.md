@@ -75,7 +75,7 @@ End-to-end RAG pipeline that ingests PDFs, chunks & embeds them with OpenAI embe
 
 ---
 
-### 📊 [Customer Retention Analysis](https://github.com/ombhore/YOUR_REPO_LINK)
+### 📊 [Customer Retention Analysis](https://github.com/ombhore/Customer-Retention-Analysis)
 > Python · SQL · Pandas · Tableau
 
 Flipkart-style case study: full EDA + SQL analysis on customer data to uncover churn patterns. Identified top 3 churn drivers and built Tableau dashboards to communicate KPIs to stakeholders.
