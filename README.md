@@ -76,9 +76,9 @@ End-to-end RAG pipeline that ingests PDFs, chunks & embeds them with OpenAI embe
 ---
 
 ### 📊 [Customer Retention Analysis](https://github.com/ombhore/Customer-Retention-Analysis)
-> Python · SQL · Pandas · Tableau
+> Python · SQL · Pandas · Scikit-learn · Tableau
 
-Flipkart-style case study: full EDA + SQL analysis on customer data to uncover churn patterns. Identified top 3 churn drivers and built Tableau dashboards to communicate KPIs to stakeholders.
+End-to-end churn analysis on 7,000+ telecom customers — EDA, SQL-based business queries, and ML churn prediction (Random Forest, Gradient Boosting, ~80% accuracy). Built a risk-scoring system to segment customers into Low / Medium / High churn risk. Identified top 3 churn drivers: contract type, tenure, and monthly charges.
 
 ---
 
