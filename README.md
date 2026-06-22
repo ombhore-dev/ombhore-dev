@@ -67,60 +67,46 @@
 ---
 🚀 Featured Projects
 
-🤖 TechMart AI Customer Support Agent
+## 🚀 Featured Projects
 
-
-Python · FastAPI · LangGraph · GPT-4o · SQLite
-
-
+### 🤖 [TechMart AI Customer Support Agent](https://github.com/ombhore-dev/TechMart_Customer_Agent)
+> Python · FastAPI · LangGraph · GPT-4o · SQLite
 
 Production-style AI agent that automates e-commerce refund decisions. Uses a LangGraph
 state machine, GPT-4o function calling, and a deterministic policy engine — so the LLM
 never decides refund outcomes. Full reasoning dashboard with tool call + policy logs.
 
+---
 
-⚕️ MediChat — AI Medical Assistant
-
-
-Python · Streamlit · GPT-4o
-
-
+### ⚕️ [MediChat — AI Medical Assistant](https://github.com/ombhore-dev/medichat)
+> Python · Streamlit · GPT-4o
 
 Medical-only AI chatbot with strict guardrails — supports 10 specialties, 3 response
 tones, and 3 languages. Instantly redirects emergency symptoms to crisis services.
 Refuses all non-medical queries by design.
 
+---
 
-📈 Smart Market Gap Analyzer
-
-
-Python · Streamlit · Groq API · LLaMA 3
-
-
+### 📈 [Smart Market Gap Analyzer](https://github.com/ombhore-dev/smart-market-gap-analyzer)
+> Python · Streamlit · Groq API · LLaMA 3
 
 GenAI business intelligence tool — enter any industry and get a full market gap analysis
 including TAM/SAM/SOM table, SWOT analysis, competitor weaknesses, and 3-year revenue
 projections. Powered by LLaMA 3 via Groq API.
 
+---
 
-📊 Customer Retention Analysis
-
-
-Python · SQL · Pandas · Scikit-learn · Tableau
-
-
+### 📊 [Customer Retention Analysis](https://github.com/ombhore-dev/Customer-Retention-Analysis)
+> Python · SQL · Pandas · Scikit-learn · Tableau
 
 End-to-end churn analysis on 7,000+ telecom customers — EDA, SQL-based business queries,
 and ML churn prediction (~80% accuracy). Built a risk-scoring system to segment customers
 into Low / Medium / High churn risk. Identified $1.67M annual revenue at risk.
 
+---
 
-💧 Water Quality Detection System
-
-
-Python · Scikit-learn · Random Forest · SVM
-
-
+### 💧 [Water Quality Detection System](https://github.com/ombhore-dev/Water-Quality-Detection)
+> Python · Scikit-learn · Random Forest · SVM
 
 ML classification model to detect water potability from 9 physicochemical parameters.
 Tuned Random Forest via GridSearchCV achieving ~68% accuracy and 0.73 ROC-AUC.
